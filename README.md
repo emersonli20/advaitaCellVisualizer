@@ -23,4 +23,5 @@ Backend Code: https://github.com/TimHuynh0905/cell_visualizer_backend
 |Component 2|          |                    |                                     |                            |                            |
 
 - Create an account on https://advaita-cell-visualizer.web.app
+![Image of cell visualizer website](./cell_visualizer_website.png)
 - Upload your iPathwayGuide output csv file to the cell visualizer companion app
