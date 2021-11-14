@@ -1,6 +1,6 @@
 # Advaita Cell Visualizer Companion App
 
-https://advaita-cell-visualizer.web.app
+Link to app: https://advaita-cell-visualizer.web.app
 
 ## Background
 Worked with Tim Huynh (Github @TimHuynh0905) as a team of 2.
